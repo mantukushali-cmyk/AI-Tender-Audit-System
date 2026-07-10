@@ -1,0 +1,74 @@
+{
+  "certificates / undertakings/declarations, etc in compliance to government policies as applicable as per tender": [
+    {
+      "raw_name": "Certificates / Undertakings/Declarations, etc in compliance to Government Policies as applicable as per tender",
+      "requires_manual_review": true
+    }
+  ],
+  "bidders to submit necessary documents including authorization certificate at the time of actual supply to ascertain that supplies have been sourced from one of such manufacturers.": [
+    {
+      "raw_name": "Bidders to submit necessary documents including authorization certificate at the time of actual supply to ascertain that supplies have been sourced from one of such manufacturers.",
+      "requires_manual_review": true
+    }
+  ],
+  "mse certificate submission folder": [
+    {
+      "raw_name": "MSE Certificate Submission Folder",
+      "requires_manual_review": true
+    }
+  ],
+  "type test certificate": [
+    {
+      "raw_name": "Type Test Certificate",
+      "requires_manual_review": true
+    }
+  ],
+  "approval certificates": [
+    {
+      "raw_name": "Approval Certificates",
+      "requires_manual_review": true
+    }
+  ],
+  "other certificates": [
+    {
+      "raw_name": "Other Certificates",
+      "requires_manual_review": true
+    }
+  ],
+  "relationship with iocl director declaration": [
+    {
+      "raw_name": "Relationship with IOCL Director Declaration",
+      "requires_manual_review": true
+    }
+  ],
+  "authorisation certificate": [
+    {
+      "raw_name": "Authorisation certificate",
+      "requires_manual_review": true
+    }
+  ],
+  "certificate in original from its ceo / cfo": [
+    {
+      "raw_name": "Certificate in original from its CEO / CFO",
+      "requires_manual_review": true
+    }
+  ],
+  "certificate shall be endorsed by a chartered accountant / statutory auditor.": [
+    {
+      "raw_name": "certificate shall be endorsed by a Chartered Accountant / Statutory Auditor.",
+      "requires_manual_review": true
+    }
+  ],
+  "declaration of relationship with iocl director (s)": [
+    {
+      "raw_name": "Declaration of Relationship with IOCL Director (S)",
+      "requires_manual_review": true
+    }
+  ],
+  "ceo / cfo\u2019s certificate": [
+    {
+      "raw_name": "CEO / CFO\u2019s certificate",
+      "requires_manual_review": true
+    }
+  ]
+}
