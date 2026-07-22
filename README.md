@@ -25,7 +25,7 @@ Instead of forcing every decision into a binary result, the system classifies ea
 
 🎬 **Watch the Full Demo**
 
-➡️ **[AI Tender Compliance Verification Demo](AI_Tender_Audit_Demo.mp4)**
+➡️ **[AI Tender Compliance Verification Demo](AI-Tender-Compliance-Demo.mp4)**
 ---
 # ⭐ Project Highlights
 
