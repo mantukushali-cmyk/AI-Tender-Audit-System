@@ -27,6 +27,25 @@ Instead of forcing every decision into a binary result, the system classifies ea
 
 > *Automated document extraction, OCR matching, and LLM verification in action.*
 ---
+# Why This Project?
+
+Most AI document-processing systems force every prediction into either
+"Found" or "Missing."
+
+That works until OCR quality is poor, document names vary, or evidence is
+ambiguous.
+
+This project intentionally avoids overconfident automation.
+
+Instead of hiding uncertainty, it exposes:
+
+- Confidence score
+- Supporting evidence
+- Source page
+- Human review recommendation
+
+This makes every compliance decision explainable and auditable.
+---
 # ⭐ Project Highlights
 
 - ✅ Processes multi-hundred-page tender documents
